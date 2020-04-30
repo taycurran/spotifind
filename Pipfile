@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 flask = "*"
+sqlite3 = "*"
+sqlite = "*"
 
 [requires]
 python_version = "3.8"
